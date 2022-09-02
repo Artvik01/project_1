@@ -13,4 +13,4 @@ elif input < 0:
     else:
         print(int(input - 1))
 else:
-    print(0)
+    print(0
