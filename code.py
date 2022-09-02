@@ -1,5 +1,5 @@
-#only with even nambers
-input = 0
+# print rounded numbers
+input =
 if input > 0:
     hoper = float(input) - int(input)
     if hoper < 0.5:
